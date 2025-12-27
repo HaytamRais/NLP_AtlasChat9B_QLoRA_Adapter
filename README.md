@@ -1,5 +1,5 @@
 # NLP_AtlasChat9B_QLoRA_Adapter
-# Moroccan NLP Story Scraper
+## Moroccan NLP Story Scraper
 
 A specialized Scrapy-based web crawler designed to extract stories and articles from `9esa.com` for Moroccan Arabic (Darija) NLP research and sentiment analysis.
 
